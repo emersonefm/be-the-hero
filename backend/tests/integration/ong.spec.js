@@ -15,7 +15,6 @@ describe('ONG', () => {
   it('should be able to create a new ONG', async () => {
     const response = await request(app)
       .post('/ongs')
-      // .set('Authorization', 'sadeas')
       .send({
         name: "Ong Teste",
         email: "ongteste@teste.com.br",
