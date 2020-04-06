@@ -7,28 +7,20 @@
 
 <p align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7f5bc0f6a47832b292bfcd2646ee4c63d85c043f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d505273266d6573736167653d77656c636f6d6526636f6c6f723d373135396331266c6162656c436f6c6f723d303030303030"><img src="https://camo.githubusercontent.com/7f5bc0f6a47832b292bfcd2646ee4c63d85c043f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d505273266d6573736167653d77656c636f6d6526636f6c6f723d373135396331266c6162656c436f6c6f723d303030303030" alt="PRs welcome!" data-canonical-src="https://img.shields.io/static/v1?label=PRs&amp;message=welcome&amp;color=7159c1&amp;labelColor=000000" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/552fa44165c5752657d78f28d5752ed5e2700893/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d4d495426636f6c6f723d373135396331266c6162656c436f6c6f723d303030303030"><img alt="License" src="https://camo.githubusercontent.com/552fa44165c5752657d78f28d5752ed5e2700893/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d4d495426636f6c6f723d373135396331266c6162656c436f6c6f723d303030303030" data-canonical-src="https://img.shields.io/static/v1?label=license&amp;message=MIT&amp;color=7159c1&amp;labelColor=000000" style="max-width:100%;"></a>
-</p>
 
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafio-01?style=social">
-  </a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/552fa44165c5752657d78f28d5752ed5e2700893/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d4d495426636f6c6f723d373135396331266c6162656c436f6c6f723d303030303030"><img alt="License" src="https://camo.githubusercontent.com/552fa44165c5752657d78f28d5752ed5e2700893/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d4d495426636f6c6f723d373135396331266c6162656c436f6c6f723d303030303030" data-canonical-src="https://img.shields.io/static/v1?label=license&amp;message=MIT&amp;color=7159c1&amp;labelColor=000000" style="max-width:100%;"></a>
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Rocketseat/semana-omnistack-11/blob/master/.github/bethehero.png"><img alt="BeTheHero" src="https://github.com/Rocketseat/semana-omnistack-11/blob/master/.github/bethehero.png" style="max-width:100%;" width="100%"></a>
 </p>
 
 ## :rocket: Sobre o desafio
